@@ -1,0 +1,19 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#fourth {
+    background-color: hsl(120, 69%, 67%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#second {
+    color:blue;
+    font-size: 36px;
+}
